@@ -1,4 +1,4 @@
-# Seeed-ArduPy-ads1115 [![Build Status](https://travis-ci.com/Seeed-Studio/seeed-ardupy-ads1115.svg?branch=master)](https://travis-ci.com/Seeed-Studio/seeed-ardupy-ads1115)
+# Seeed-ArduPy-bme280 [![Build Status](https://travis-ci.com/Seeed-Studio/seeed-ardupy-bme280.svg?branch=master)](https://travis-ci.com/Seeed-Studio/seeed-ardupy-bme280)
 
 ## Introduction
 
@@ -12,7 +12,7 @@ An ArduPy library for AGrove - Temp&Humi&Barometer Sensor (BME280). Grove BME280
 ```shell
 pip3 install aip
 ```
-- Build firmware with Seeed ArduPy ads1115
+- Build firmware with Seeed ArduPy bme280
 ```shell
 aip install https://github.com/Seeed-Studio/seeed-ardupy-bme280
 aip build
