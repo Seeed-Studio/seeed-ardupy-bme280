@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An ArduPy library for AGrove - Temp&Humi&Barometer Sensor (BME280). Grove BME280 provides a precise measurement of not only barometric pressure and temperature, but also the humidity in the environment. The air pressure can be measured in a range from 300 hPa to 1100hPa with ±1.0 hPa accuracy, while the sensor works perfectly for temperatures between - 40℃ and 85℃ with an accuracy of ±1℃. As for the humidity, you can get a humidity value with an error less than 3%.
+An ArduPy library for Grove - Temp&Humi&Barometer Sensor (BME280). Grove BME280 provides a precise measurement of not only barometric pressure and temperature, but also the humidity in the environment. The air pressure can be measured in a range from 300 hPa to 1100hPa with ±1.0 hPa accuracy, while the sensor works perfectly for temperatures between - 40℃ and 85℃ with an accuracy of ±1℃. As for the humidity, you can get a humidity value with an error less than 3%.
 
 
 
